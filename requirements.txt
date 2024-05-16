@@ -1,0 +1,10 @@
+torch
+transformers
+langchain
+langchain-community
+langchain_experimental
+chromadb
+InstructorEmbedding
+llama-cpp-python
+PyMuPDF
+sentence-transformers==2.2.2
