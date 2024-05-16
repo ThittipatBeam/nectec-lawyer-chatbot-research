@@ -6,7 +6,7 @@ You can file the 2 LLMs model we use on this project here!
 
 https://huggingface.co/TheBloke/openthaigpt-1.0.0-beta-13B-chat-GGUF
 
-## "seallm-7b-v2.5.Q4_K_M"
+## "Seallm-7b-v2.5.Q4_K_M"
 ![alt text](https://cdn-avatars.huggingface.co/v1/production/uploads/6393f04df7e70dd0166c004e/kfq8wHQEBZ5aicMzjOqKG.png)
 
 https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5-GGUF
