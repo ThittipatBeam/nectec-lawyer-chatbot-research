@@ -11,4 +11,6 @@ https://huggingface.co/TheBloke/openthaigpt-1.0.0-beta-13B-chat-GGUF
 
 https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5-GGUF
  
-**After you download one of these models, put it in the folder "Model" to use it!** 
+
+
+# **After you download one of these models, put it in the folder "Model" to use it!** 
