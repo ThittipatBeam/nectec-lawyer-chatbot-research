@@ -13,4 +13,4 @@ https://huggingface.co/SeaLLMs/SeaLLM-7B-v2.5-GGUF
  
 
 
-# **After you download one of these models, put it in the folder "Model" to use it!** 
+# **After you download these models, put it in the folder "Model" to use it!** 
